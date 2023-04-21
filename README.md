@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Poorv Kumar </h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Code&weight=800&size=25&pause=1000&color=FF0000FF&center=true&vCenter=true&width=1080&lines=I'm+interested+in+DSA+and+Problem+Solving;Currently+working+on+some+cool+Projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Code&weight=800&size=25&pause=1000&color=FF0000FF&center=true&vCenter=true&width=1080&lines=I'm+interested+in+DSA+and+Problem+Solving;I+am+a+coding+enthusiast+who+loves+making+projects+and+solving+problems)
 
 <!-- - 🔥 I’m interested in DSA and Problem Solving
 - 🚀 Currently working on some Projects -->
