@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building GenerativeAI applications<br>👯 I’m looking to collaborate on my Real-time Collaboration Tool <br>🌱 I’m currently learning Langchain<br>💬 Ask me about MERN Stack, Full Stack Development
+🔭 I’m currently working on building GenerativeAI applications<br>👯 I’m looking to collaborate on my Real-time Collaboration Tool <br>🌱 I’m currently learning Langchain<br>💬 Ask me about MERN Stack, Full Stack Development <br> 📫 How to reach me **poorvkumar14@gmail.com**
 
 
 ## 🌐 Socials:
