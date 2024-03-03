@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building GenerativeAI applications<br>👯 I’m looking to collaborate on my Real-time Collaboration Tool <br>🌱 I’m currently learning Langchain<br>💬 Ask me about MERN Stack, Full Stack Development <br> 📫 How to reach me **poorvkumar14@gmail.com**
+👋 Hi, I'm Poorv Kumar! Currently pursuing BTech at Indian Institute of Information Technology, Sri City. I am passionate about solving complex problems through coding and love to work on projects related to developing scalable applications. Feel free to reach me at [Gmail](poorvkumar14@gmail.com) for any collaboration or project inquiries.
 
 
 ## 🌐 Socials:
