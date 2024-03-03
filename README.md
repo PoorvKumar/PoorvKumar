@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Poorv Kumar! Currently pursuing BTech at Indian Institute of Information Technology, Sri City. I am passionate about solving complex problems through coding and love to work on projects related to developing scalable applications. Feel free to reach me at [Gmail](poorvkumar14@gmail.com) for any collaboration or project inquiries.
+👋 Hi, I'm Poorv Kumar! Currently pursuing BTech at Indian Institute of Information Technology, Sri City. I am passionate about solving complex problems through coding and love to work on projects related to developing scalable applications. Feel free to reach me at [gmail](poorvkumar14@gmail.com) for any collaboration or project inquiries.
 
 
 ## 🌐 Socials:
